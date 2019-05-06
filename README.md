@@ -1,7 +1,6 @@
-# flask-demo
 # Flask Skeleton - 
 
-Flask starter project... https://cloud.docker.com
+Flask starter project...This is a demo...  https://cloud.docker.com
 
 ## Quick Start
 
